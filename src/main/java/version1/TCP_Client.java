@@ -1,3 +1,5 @@
+package version1;
+
 import java.io.BufferedWriter;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
